@@ -1,7 +1,10 @@
-# Bike Sales Dashboard Project README
+# Bike Sales Dashboard Project
 
-## Introduction
+## Overview
 This project focuses on analyzing bike sales data using Excel. The dataset contains information on customers, including demographic details such as gender, income, education, occupation, and commute distance, along with whether they purchased a bike or not.
+
+![Dashboard bikes sales](/dashboard_bikes_sales.jpg)\
+*Dashboard bikes sales*
 
 ## Dataset
 The raw dataset includes the following columns:
